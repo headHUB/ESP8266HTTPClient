@@ -1,0 +1,11 @@
+{
+  "name": "ESP8266HTTPClient",
+  "keywords": "esp8266, http, client",
+  "description": "httpClient",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/comdet/ESP8266HTTPClient.git"
+  },
+  "version": "3.7.7",
+  }
